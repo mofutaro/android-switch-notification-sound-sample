@@ -1,0 +1,18 @@
+*.iml
+.gradle
+/local.properties
+# IDEA/Android Studio project files, because
+# the project can be imported from settings.gradle.kts
+.idea/*
+!.idea/copyright
+# Keep the code styles.
+!/.idea/codeStyles
+/.idea/codeStyles/*
+!/.idea/codeStyles/Project.xml
+!/.idea/codeStyles/codeStyleConfig.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
