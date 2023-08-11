@@ -15,7 +15,7 @@
             android:id="@+id/topAppBar"
             android:layout_width="match_parent"
             android:layout_height="?attr/actionBarSize"
-            app:title="aa"
+            app:title="通知音"
             app:navigationIcon="@drawable/round_arrow_back_24"
             app:menu="@menu/menu_sound"
             style="@style/Widget.MaterialComponents.Toolbar.Primary"
